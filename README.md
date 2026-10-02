@@ -131,7 +131,6 @@ All texts shown in the video (title, banners, side panel, results and the final 
 * P. Falcone et al., "Predictive active steering control for autonomous vehicle systems", *IEEE Transactions on Control Systems Technology*, 2007.
 * Euro NCAP test protocols for cut in scenarios.
 
-Developed with AI assistance.
 
 ## Watch the result
 
