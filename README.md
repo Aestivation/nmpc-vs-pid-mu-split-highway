@@ -135,4 +135,4 @@ All texts shown in the video (title, banners, side panel, results and the final 
 ## Watch the result
 
 The video of the full run is on YouTube. If you want to see both controllers in action, check it out here:
-**[YouTube link]**
+**https://youtu.be/hULIXalt-vA**
